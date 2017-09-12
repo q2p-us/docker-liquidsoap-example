@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1,dtmfA1.mp3
+../examples/modem/dtmfA1.mp3
+#EXTINF:1,dtmfA2.mp3
+../examples/modem/dtmfA2.mp3
+#EXTINF:1,dtmfA3.mp3
+../examples/modem/dtmfA3.mp3
+#EXTINF:1,dtmfA4.mp3
+../examples/modem/dtmfA4.mp3
+#EXTINF:1,dtmfA5.mp3
+../examples/modem/dtmfA5.mp3
+#EXTINF:1,dtmfA6.mp3
+../examples/modem/dtmfA6.mp3

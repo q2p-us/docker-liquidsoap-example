@@ -1,0 +1,9 @@
+#!/usr/bin/liquidsoap
+
+icehost   = "icecast.example.com"
+iceport   = 8000
+icemount  = "basic-radio.ogg"
+icepass   = "hackme"
+
+descr     = "RadioExample"
+url       = "http://liquidsoap.example.com"

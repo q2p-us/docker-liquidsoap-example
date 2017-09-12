@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0, - 
+../examples/digits/mae/MAE_ZA.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_1A.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_2A.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_3A.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_4A.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_5A.mp3
+#EXTINF:1, - 
+../examples/digits/mae/MAE_6A.mp3
+#EXTINF:1, - 
+../examples/digits/mae/MAE_7A.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_8A.mp3
+#EXTINF:0, - 
+../examples/digits/mae/MAE_9A.mp3
